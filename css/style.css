@@ -1,0 +1,30 @@
+
+.img_mac{
+    width: 20px;
+}
+.carousel-control-prev-icon{
+   margin-right: 190px;
+   color: black;
+}
+.carousel-control-next-icon{
+    margin-right: 300px;
+    color: black;
+}
+.carousel-inner{
+    margin-top: 50px;
+}
+.card{
+    margin-left: 700px;
+    margin-top: -200px;
+    padding-top: -300px;
+    padding-bottom: 300;
+}
+.accordion{
+    margin-top: 0px;
+    margin-left: 300px;
+    margin-right: 1250px;
+    margin-top: -150px;
+}
+.row{
+    padding-top: 250px;
+}
